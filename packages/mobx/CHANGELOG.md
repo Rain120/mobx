@@ -1,5 +1,11 @@
 # mobx
 
+## 6.1.9
+
+### Patch Changes
+
+-   [`0945c265`](https://github.com/mobxjs/mobx/commit/0945c26513057457e1534a80558a3eb98487dc96) [#2840](https://github.com/mobxjs/mobx/pull/2840) Thanks [@iChenLei](https://github.com/iChenLei)! - export IComputedFactory typescript type definition
+
 ## 6.1.8
 
 ### Patch Changes
